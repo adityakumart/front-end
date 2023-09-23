@@ -2,45 +2,29 @@
 
 <h3>Frontend Developer</h3>
 
-<div style="display: flex;">
+<div>
     <h4>Language</h4>
-    <ul>
-        <li>HTML</li>
-        <li>CSS</li>
-        <li>JS</li>
-    </ul>
+    &nbsp;&nbsp;HTML
+    - CSS
+    - JS
     <h4>Version Control</h4>
-    <ul>
-        <li>GIT</li>
-        <li>Github</li>
-    </ul>
+    &nbsp;&nbsp;GIT
+    - Github
     <h4>JS UI</h4>
-    <ul>
-        <li>jQuery</li>
-        <li>Angular</li>
-        <li>React</li>
-    </ul>
+    &nbsp;&nbsp;jQuery
+    - Angular
+    - React
     <h4>OS</h4>
-    <ul>
-        <li>Windows</li>
-    </ul>
+    &nbsp;&nbsp;Windows
     <h4>Database</h4>
-    <ul>
-        <li>MySql</li>
-        <li>MongoDB</li>
-    </ul>
+    &nbsp;&nbsp;MySql
+    - MongoDB
     <h4>Productivity Suite</h4>
-    <ul>
-        <li>Word</li>
-        <li>Excel</li>
-        <li>Powerpoint</li>
-    </ul>
+    &nbsp;&nbsp;Word
+    - Excel
+    - Powerpoint
     <h4>Framework</h4>
-    <ul>
-        <li>Bootstrap</li>
-    </ul>
+    &nbsp;&nbsp;Bootstrap
     <h4>Tools</h4>
-    <ul>
-        <li>VS Code</li>
-    </ul>
+    &nbsp;&nbsp;VS Code
 </div>
