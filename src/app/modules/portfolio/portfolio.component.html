@@ -1,0 +1,16 @@
+<div>
+    <p>
+        {{resume.basics.name}}
+    </p>
+    <p>
+        {{resume.basics.label}}
+    </p>
+    <ol>
+        <li *ngFor="let item of resume.skills">
+            <div>{{item.name}}</div>
+            <ul>
+                <li *ngFor="let skill of item.keywords">{{skill}}</li>
+            </ul>
+        </li>
+    </ol>
+</div>
